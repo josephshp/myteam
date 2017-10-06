@@ -1,0 +1,33 @@
+.navbar-dark .navbar-brand{
+  color: #d4cdb1;
+  border-style: solid;
+  border-radius: 0.3rem;
+  border-width: medium;
+  border-color: #d4cdb1;
+}
+.navbar-dark .navbar-nav .active>.nav-link{
+  color: #d4cdb1;
+}
+.navbar-dark .navbar-nav .nav-link{
+  color: #d4cdb1;
+}
+.jumbotron{
+  background-image: url(winter.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 0rem;
+  padding: 1rem;
+}
+.stark_banner{
+  width: 150px
+}
+.display-3{
+  font-family: 'Metal Mania', cursive;
+  color:#212529;
+}
+p{
+  font-family: 'Roboto',sans-serif;
+}
+body{
+  background-color: #04315d;
+}
